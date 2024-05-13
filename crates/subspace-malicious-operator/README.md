@@ -6,7 +6,7 @@ The malicious operator node acts as a regular [domain operator](../../domains/RE
 
 ### How it works
 
-Most parts of the malicious operator act exactly the same as the regular domain operator except its bundle producer. When it produce a bundle, the bundle will be tampered with malicious content with probability before submitting to the consensus chain.
+Most parts of the malicious operator act exactly the same as the regular domain operator except its bundle producer. When it produces a bundle, the bundle will be tampered with malicious content with a probability before submitting to the consensus chain.
 
 Currently, it supports produce:
 - Invalid bundle
